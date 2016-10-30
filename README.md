@@ -17,5 +17,5 @@ Bot commands are:
 </ul>
 
 <p>
-You can contact me in Telegram with @checheno
+You can contact me in Telegram - <a href="https://telegram.me/checheno">@checheno</a>
 </p>
