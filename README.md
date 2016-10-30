@@ -1,8 +1,8 @@
 # UVIBot
-UVIBot is a Telegram Bot based on pyTelegramBotAPI (https://github.com/eternnoir/pyTelegramBotAPI) which provides the strength of the sun's ultraviolet radiation (UVI) for a given location.
+<a href="https://telegram.me/UVIBot">UVIBot</a> is a Telegram Bot based on <a href="https://github.com/eternnoir/pyTelegramBotAPI">pyTelegramBotAPI</a> which provides the strength of the sun's ultraviolet radiation (UVI) for a given location.
 
 <p>
-You can contact UVIBot in Telegram here - https://telegram.me/UVIBot
+You can contact <a href="https://telegram.me/UVIBot">UVIBot</a> in Telegram here - https://telegram.me/UVIBot
 </p>
 <p>
 Bot commands are:
