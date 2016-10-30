@@ -1,4 +1,4 @@
-mport telebot
+import telebot
 import requests
 from telebot import types
 
