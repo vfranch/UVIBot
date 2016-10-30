@@ -13,6 +13,7 @@ Bot commands are:
 <li>/location - get the latitude and longitude of the last location sent to the bot.</li>
 <li>/forgetme - deletes your location.</li>
 <li>/table - prints the table the bot uses to determine wether the UVI is very low, low, medium, ... from the numerical value.</li>
+<li>/help - prints the help with these commands.</li>
 </ul>
 
 <p>
